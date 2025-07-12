@@ -6,7 +6,6 @@ Soy un desarrollador apasionado por la creación de soluciones digitales, actual
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en: [Tu proyecto o empresa actual]
 - 🌱 Estoy aprendiendo:
   ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -22,6 +21,8 @@ Soy un desarrollador apasionado por la creación de soluciones digitales, actual
 ## 📬 Cómo contactarme
 
 - 📧 Email: [csanmart25@hotmail.com](mailto:csanmart25@hotmail.com)
+- Phone: +57 300 616 03 74
+
 
 ---
 
