@@ -23,15 +23,3 @@ Soy un desarrollador apasionado por la creación de soluciones digitales, actual
 - 📧 Email: [csanmart25@hotmail.com](mailto:csanmart25@hotmail.com)
 - Phone: +57 300 616 03 74
 
-
----
-
-<!--
-**Csanmart/Csanmart** es un repositorio ✨ _especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
-
-Aquí puedes dejar más información si lo deseas:
-- 👯 Buscando colaborar en: ...
-- 🤔 Buscando ayuda con: ...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres: ...
--->
