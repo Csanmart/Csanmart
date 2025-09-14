@@ -30,6 +30,8 @@ Soy un desarrollador apasionado por la creación de soluciones digitales, actual
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
+
 
 ### Ciencia de Datos e Inteligencia Artificial
 
